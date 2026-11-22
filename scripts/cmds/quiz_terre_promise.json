@@ -1,0 +1,87 @@
+{
+  "name": "Quiz - TERRE PROMISE",
+  "language": "fr",
+  "version": "1.0",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Culture générale",
+      "difficulty": "facile",
+      "question": "Quelle est la capitale de la RDC ?",
+      "options": ["Kinshasa", "Lubumbashi", "Goma", "Kisangani"],
+      "answer": "Kinshasa"
+    },
+    {
+      "id": 2,
+      "category": "Culture générale",
+      "difficulty": "facile",
+      "question": "Combien de jours compte une année normale ?",
+      "options": ["360", "365", "366", "364"],
+      "answer": "365"
+    },
+    {
+      "id": 3,
+      "category": "Culture générale",
+      "difficulty": "facile",
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Indien", "Pacifique", "Arctique"],
+      "answer": "Pacifique"
+    },
+    {
+      "id": 4,
+      "category": "Culture générale",
+      "difficulty": "facile",
+      "question": "Combien de côtés a un triangle ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 5,
+      "category": "Culture générale",
+      "difficulty": "moyen",
+      "question": "Quel est le symbole chimique de l'eau ?",
+      "options": ["CO2", "H2O", "O2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "id": 6,
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Combien de joueurs composent une équipe de football sur le terrain ?",
+      "options": ["9", "10", "11", "12"],
+      "answer": "11"
+    },
+    {
+      "id": 7,
+      "category": "Football",
+      "difficulty": "facile",
+      "question": "Quel joueur peut utiliser ses mains dans sa surface ?",
+      "options": ["Défenseur", "Gardien", "Attaquant", "Capitaine"],
+      "answer": "Gardien"
+    },
+    {
+      "id": 8,
+      "category": "Football",
+      "difficulty": "moyen",
+      "question": "Combien d'années entre deux Coupes du monde normalement ?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": 9,
+      "category": "RDC et Afrique",
+      "difficulty": "facile",
+      "question": "Quel fleuve traverse Kinshasa et Brazzaville ?",
+      "options": ["Nil", "Congo", "Niger", "Zambèze"],
+      "answer": "Congo"
+    },
+    {
+      "id": 10,
+      "category": "RDC et Afrique",
+      "difficulty": "facile",
+      "question": "Quelle monnaie utilise-t-on en RDC ?",
+      "options": ["Franc CFA", "Franc congolais", "Naira", "Cedi"],
+      "answer": "Franc congolais"
+    }
+  ]
+    }
